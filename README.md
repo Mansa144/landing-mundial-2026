@@ -25,7 +25,6 @@ El diseño fue realizado por una compañera de UX/UI, y el proyecto ya contaba c
 ├── styles.css
 ├── /IMG
 │   ├── hero.png
-│   ├── producto.png
 │   ├── wave.svg
 │   └── logo.png
 └── README.md
